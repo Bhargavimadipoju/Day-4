@@ -6,4 +6,4 @@ way_to_assigning_variables<br>
 
 naming variables.py<br>
 
-<a href='https://bit.ly/38vnYju'video link</a>
+<a href='https://bit.ly/38vnYju'>videolink</a>
